@@ -1,0 +1,53 @@
+</!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Tribute Page</title>
+		<link rel="stylesheet" href="style.css"/>
+		<style type="text/css">
+				h1{color:black;}
+			h1{text-align: center;}
+			h1{white-space: nowrap;}
+			h1{font-size:90px;}
+			h1{text-shadow: 20%}
+			h1{font-family: monospace;}
+			h1{background-color: red;}
+			h1{background-image: linear-gradient(to top, #b54343, #c66367, #d4828a, #e0a2ab, #e9c2ca, #e9c2ca, #e9c2ca, #e9c2ca, #e0a2ab, #d4828a, #c66367, #b54343);}
+		</style>
+	<style type="text/css">
+		 ul {list-style-type: none;}
+      	 ul{padding: 0;}
+    	 ul{margin: 0;}
+     	 ul{text-align: left;} 
+	</style>
+</head>
+
+ <body>
+	<h1>Tribute to the Muppet's</h1>
+	<div class="image_container">
+     <img src="https://cdn.mos.cms.futurecdn.net/om7tB7jBAn3h4ANiYpazbU-1200-80.jpg" alt="all the muppets in a group"/>
+	</div>
+	<div align="center">Marionette Puppet</div>
+		<ul>
+			<li>11950s–1960s: Beginnings</li>
+				<li>1955:Kermit the Frog</li>
+				<li>1962:Rowlf the Dog</li>
+				<li>1975:Animal</li>
+				<li>1975:Waldorf</li>
+				<li>1975:The Swedish Chef</li>
+				<li>1977:Sam Eagle</li>
+				<li>1976:Miss Piggy</li>
+				<li>1976:Fozzie Bear</li>
+				<li>1976:Gonzo</li>
+				<li>1976:Scooter</li>
+				<li>1976:Statler</li>
+				<li>1977:Beaker</li>
+				<li>1977:Dr. Bunsen Honeydew</li>
+				<li>1978:Camilla the Chicken</li>
+				<li>1980:Rizzo the Rat</li>
+				<li>1980:Elmo</li>
+		</ul>
+	
+</body>
+</html>
